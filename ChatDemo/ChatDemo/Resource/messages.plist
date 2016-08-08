@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>喂，你好！</string>
+		<key>icon</key>
+		<string>earl.png</string>
+		<key>time</key>
+		<string>10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你是狼还是狗啊?</string>
+		<key>icon</key>
+		<string>earl.png</string>
+		<key>time</key>
+		<string> 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>难道你看不出来吗?</string>
+		<key>icon</key>
+		<string>wolf.png</string>
+		<key>time</key>
+		<string> 10:25</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>我看你就是一条狗</string>
+		<key>icon</key>
+		<string>earl.png</string>
+		<key>time</key>
+		<string> 10:25</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>说什么呢!睁开你的眼睛看清楚好不好!!</string>
+		<key>icon</key>
+		<string>wolf.png</string>
+		<key>time</key>
+		<string> 10:26</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>哦哦!原来是...</string>
+		<key>icon</key>
+		<string>earl.png</string>
+		<key>time</key>
+		<string> 10:26</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>当然了!</string>
+		<key>icon</key>
+		<string>wolf.png</string>
+		<key>time</key>
+		<string> 10:26</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>我是说,看清楚你的长相了,原来你还是一条狗啊!哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</string>
+		<key>icon</key>
+		<string>earl.png</string>
+		<key>time</key>
+		<string> 10:27</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>人家就是一匹狼!</string>
+		<key>icon</key>
+		<string>wolf.png</string>
+		<key>time</key>
+		<string> 10:27</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
